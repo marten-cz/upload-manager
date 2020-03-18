@@ -1,5 +1,5 @@
 {
-  "name": "ondrs/upload-manager",
+  "name": "marten-cz/upload-manager",
   "type": "library",
   "description": "Upload manager for Nette framework",
   "keywords": ["nette", "upload", "file upload"],
